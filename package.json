@@ -1,9 +1,8 @@
 {
-  "name": "postgram",
+  "name": "postgram-api",
   "version": "0.0.1",
   "description": "",
   "author": "",
-  "private": true,
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
